@@ -1,0 +1,3 @@
+#!/bin/bash
+mv [[ :upper : ]]* /tmp/u
+echo mv [[ :upper : ]]* /tmp/u
