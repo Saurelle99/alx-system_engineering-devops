@@ -1,0 +1,9 @@
+#!/bin/bash
+ls -pamv >> 103-commas
+cat 103-commas 
+echo ls -pamv >> 103-commas
+cat 103-commas 
+cat 103-commas 
+echo ls -pamv
+ls -pamv
+ls -pamv
